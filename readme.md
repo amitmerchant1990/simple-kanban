@@ -1,7 +1,7 @@
 Simple Kanban
 ===
 
-> A simple Kanban board as a browser extension to manage your tasks.
+> A simple [Kanban](https://en.wikipedia.org/wiki/Kanban) board as a browser extension to manage your tasks.
 
 ![](/assets/simple-kanban-chrome-extension.png)
 
