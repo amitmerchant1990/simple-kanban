@@ -1,16 +1,22 @@
-Sole
+Simple Kanban
 ===
 
-> A Chrome extension that lets you do only one thing. i.e. To jot down one thing on the new tab without any distractions and show it big and loud everytime you open a new tab. So that you don't miss it at all!
+> A simple Kanban board to manage your tasks.
 
-[Install via Chrome Web Store](https://chrome.google.com/webstore/detail/sole/khjjimnnahfgccomaamgpihlkcjbnojo)
+![](/assets/simple-kanban-chrome-extension.png)
 
-![](/assets/screenshot-2.png)
+## Key features
 
-That's it! That's the "Sole" purpose of this extension.
+- See your most important tasks at a glance.
+- Drag and drop tasks between columns: **To Do**, **In Progress**, and **Done**.
+- Simple by design and intuitive interface.
+- Stores tasks on-device for privacy and offline usage.
 
-With Sole, you can jot down your most important *reminder*, *an idea*, *a phone number*, *an inspirational quote*, and so on.
+## Donation
 
-Alternatively, you can update the item using the <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> shortcut once you're on the new tab.
+If you find this tool useful, consider [buying me a coffee](https://buymeacoffee.com/amitmerchant) so that I keep working on improving it further.
 
-Of course, Sole also supports [Markdown](https://daringfireball.net/projects/markdown/). So, you can also jot down things in your favorite markup language easily if that is what you prefer.
+## License
+
+MIT
+
