@@ -3,6 +3,8 @@ Simple Kanban
 
 > A simple [Kanban](https://en.wikipedia.org/wiki/Kanban) board as a browser extension to manage your tasks.
 
+[Install via Chrome Web Store](https://chromewebstore.google.com/detail/lfpnkjnbcdflompmncnkeobpnldhngbl)
+
 ![](/assets/simple-kanban-chrome-extension.png)
 
 ## Key features
