@@ -13,5 +13,10 @@
   },
   "chrome_url_overrides": {
     "newtab": "src/override/override.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "simplekanban@amitmerchant.com"
+    }
   }
 }
