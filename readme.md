@@ -5,6 +5,8 @@ Simple Kanban
 
 [Install via Chrome Web Store](https://chromewebstore.google.com/detail/lfpnkjnbcdflompmncnkeobpnldhngbl)
 
+[Install it from the Firefox Add-ons Extensions](https://addons.mozilla.org/en-US/firefox/addon/simple-kanban/)
+
 ![](/assets/simple-kanban-chrome-extension.png)
 
 ## Key features
